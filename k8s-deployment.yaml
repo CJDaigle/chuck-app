@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: chuck-app
-        image: docker.io/library/chuck-app-chuck-norris-app:latest
+        image: docker.io/cjdaigle2/chuck-app-chuck-norris-app:latest
         ports:
         - containerPort: 80
         resources:
