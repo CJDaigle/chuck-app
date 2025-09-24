@@ -3,8 +3,6 @@
 
 
 
-import requests
-
 url_api = "https://api.chucknorris.io/jokes/random"
 
 def call_api(api_url):
